@@ -1,0 +1,13 @@
+{
+  "itemGroup.leadproductionengineertechnicalassessment": "Example Mod Tab",
+  "block.leadproductionengineertechnicalassessment.example_block": "Example Block",
+  "item.leadproductionengineertechnicalassessment.example_item": "Example Item",
+
+  "leadproductionengineertechnicalassessment.configuration.title": "Lead Production Engineer Technical Assessment Configs",
+  "leadproductionengineertechnicalassessment.configuration.section.leadproductionengineertechnicalassessment.common.toml": "Lead Production Engineer Technical Assessment Configs",
+  "leadproductionengineertechnicalassessment.configuration.section.leadproductionengineertechnicalassessment.common.toml.title": "Lead Production Engineer Technical Assessment Configs",
+  "leadproductionengineertechnicalassessment.configuration.items": "Item List",
+  "leadproductionengineertechnicalassessment.configuration.logDirtBlock": "Log Dirt Block",
+  "leadproductionengineertechnicalassessment.configuration.magicNumberIntroduction": "Magic Number Text",
+  "leadproductionengineertechnicalassessment.configuration.magicNumber": "Magic Number"
+}
