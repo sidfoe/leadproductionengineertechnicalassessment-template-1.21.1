@@ -1,25 +1,10 @@
+Once added as a mod, you can use the command /camkey to either 'add' 'list' or 'play' a sequence of keyframes. With add and play you need the name of the sequence and with play you also include the duration length. 
+The jar file is located in leadproductionengineertechnicalassessment-template-1.21.1\build\libs and that can be added to play the mod.
 
-Installation information
-=======
+I tried to keep it flexible but with in a contained environment. So if we wanted to add more adjustments to the camera position or what we want to save in the sequence it would be addable via the different
+classes that were used. I really tried to make sure I was using OOP principals so that this could be reused or easily adjusted in the future.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+This was a learning experience for me as I have not modded Minecraft heavily or in this way before. So I spent most of the day trying to learn and figure things out, and in the process it is not fully 
+functional. I was unable to get the play command to work properly. If I had more time I would really love to look into the camera stuff more to get access to actually changing its position so it would 
+play the sequence. I also would like to just go back over and better understand some of the code and structure to make it more modular going forward. I would also potentially find a mod that does camera
+work and see if I could look at the code to get an idea of how to do it and use that as documentation to figure out how I can get it to do what I would like as well.
